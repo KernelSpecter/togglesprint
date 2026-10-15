@@ -1,0 +1,8 @@
+[{
+  "modid": "togglesprint",
+  "name": "ToggleSprint",
+  "description": "Tap the sprint key to toggle sprinting on or off.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "authorList": ["KernelSpecter"]
+}]
